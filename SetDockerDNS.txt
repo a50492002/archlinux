@@ -1,0 +1,3 @@
+修改 /etc/docker/daemon.json 的設定(如沒有此檔案可用Root權限建立該檔案)
+
+"dns": ["1.1.1.1","<你的DNS主機IP>"]
